@@ -1,0 +1,9 @@
+Bàn phím gõ lạch cạch trong căn phòng tĩnh lặng, chỉ có ánh sáng màn hình hắt lên khuôn mặt hốc hác. Đã hai ngày trôi qua, tôi chưa rời khỏi ghế quá năm phút, ngoài những lần đứng dậy với tay lấy ly cà phê nguội ngắt. Code vẫn chạy, bug vẫn xuất hiện, deadline vẫn treo lơ lửng như lưỡi kiếm sắp rơi xuống bất cứ lúc nào.
+
+Mắt cay xè, bàn tay run run nhưng bộ não vẫn ép mình tiếp tục. "Chỉ cần fix nốt lỗi này là xong." – câu nói tự nhủ ấy đã lặp lại cả trăm lần trong đầu. Nhưng như một vòng lặp vô tận, cứ giải quyết xong một lỗi lại thấy thêm ba lỗi mới. Console đỏ rực, log dài như những trang nhật ký đầy đau khổ.
+
+Bên ngoài cửa sổ, mặt trời lên rồi lại xuống, nhưng trong thế giới này, chỉ có màn hình IDE và dòng lệnh không ngừng cuộn. Cảm giác thời gian như bị bẻ cong – mới đó còn là nửa đêm, thoáng cái đã thấy ánh sáng ban ngày xuyên qua khe cửa.
+
+Cơ thể rệu rã, nhưng tinh thần vẫn căng như dây đàn. Tôi biết mình đang đốt cháy bản thân, nhưng làm sao dừng lại khi mọi thứ vẫn chưa hoàn hảo?
+
+Có lẽ đây chính là định mệnh của những kẻ theo đuổi code – một cuộc đời trong gai, nơi deadline là kẻ thống trị, còn dev chỉ là những chiến binh mãi không có ngày nghỉ.
